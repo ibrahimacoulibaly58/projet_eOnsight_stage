@@ -1,0 +1,5 @@
+Bonjour,
+
+Dans le cadre du projet, j'ai rencontré quelques problèmes avec l'extraction de texte à partir de l'image "Genova.png". Mon programme ne parvient pas à extraire le texte de cette image spécifique, alors que lorsqu'une autre image est utilisée, comme "Extrait_IQOA_data.png", le code fonctionne correctement et parvient à extraire le texte.
+
+Le code que je vous ai envoyé est spécifiquement conçu pour travailler avec l'image "Genova.png", en utilisant des critères de recherche adaptés à cette image. Cependant, malgré ces ajustements, le programme ne parvient pas à extraire le texte de manière satisfaisante.
